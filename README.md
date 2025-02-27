@@ -1,4 +1,6 @@
-## Hi there 👋
+##  Vivan los michis 🐈
+
+![Gif pokemon](https://i.gifer.com/5FBP.gif)
 
 <!--
 **Juan-Garcia16/Juan-Garcia16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
