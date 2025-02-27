@@ -1,4 +1,3 @@
-##  Vivan los michis 🐈
 
 <div style="text-align: center;">
     <img src="https://i.gifer.com/5FBP.gif" alt="Gif pokemon">
