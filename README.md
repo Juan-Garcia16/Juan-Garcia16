@@ -1,6 +1,6 @@
-<p align="center">
-  <img src=""https://i.gifer.com/5FBP.gif" alt="Gif pokemon">
-</p>
+<div align="center">
+    <img src="https://i.gifer.com/5FBP.gif" alt="Gif pokemon">
+</div>
 
 <!--
 **Juan-Garcia16/Juan-Garcia16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
