@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">🎓 I'm Juan Pablo García, a Systems and Computer Engineering student.<br><br>💡 I'm passionate about backend development, systems design, and creating practical software solutions.<br><br>📚 I'm currently learning about systems architecture, performance optimization, advanced backend concepts, automation workflows, and AI agent development.<br><br>💼 I currently work as a full-stack developer building solutions that integrate AI agents for various industries.<br><br>🎬 I'm open to collaborations on web applications, backend systems, automation, and developer tools.</p>
+<p align="left">🎓 I'm a Systems and Computer Engineering student.<br><br>💡 I'm passionate about backend development, systems design, and creating practical software solutions.<br><br>📚 I'm currently learning about systems architecture, performance optimization, advanced backend concepts, automation workflows, and AI agent development.<br><br>💼 I currently work as a full-stack developer building solutions that integrate AI agents for various industries.<br><br>🎬 I'm open to collaborations on web applications, backend systems, automation, and developer tools.</p>
 
 ###
 
