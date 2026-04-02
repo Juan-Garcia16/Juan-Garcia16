@@ -120,8 +120,10 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/1f/86/2a/1f862a7913170e60912d0bb8542fffc2.gif"  />
+  <img height="300" src="https://i.pinimg.com/originals/1f/86/2a/1f862a7913170e60912d0bb8542fffc2.gif"  />
 </div>
 
 ###
