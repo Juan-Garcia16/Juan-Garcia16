@@ -37,17 +37,17 @@
 
 <div align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="35" alt="python logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white&style=for-the-badge" height="35" alt="fastapi logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" height="35" alt="django logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="35" alt="typescript logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="35" alt="react logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="35" alt="nodejs logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="35" alt="supabase logo"  />
 </div>
 
@@ -59,47 +59,47 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" alt="html5 logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="35" alt="css logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="35" alt="tailwindcss logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="35" alt="bootstrap logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" height="35" alt="linux logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="35" alt="ubuntu logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Apple-000000?logo=apple&logoColor=white&style=for-the-badge" height="35" alt="apple logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="35" alt="docker logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="35" alt="postgresql logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="35" alt="mysql logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge" height="35" alt="sqlite logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="35" alt="mongodb logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Deno-000000?logo=deno&logoColor=white&style=for-the-badge" height="35" alt="denojs logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="35" alt="express logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="35" alt="git logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="35" alt="github logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=black&style=for-the-badge" height="35" alt="gitlab logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/insomnia-5E00D3?logo=insomnia&logoColor=white&style=for-the-badge" height="35" alt="insomnia logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="35" alt="postman logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/Notion-000000?logo=notion&logoColor=white&style=for-the-badge" height="35" alt="notion logo"  />
-  <img width="5" />
+  <img width="0" />
   <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="35" alt="npm logo"  />
 </div>
 
