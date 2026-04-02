@@ -1,6 +1,6 @@
-<br clear="both">
-
-<img align="left" height="150" src="https://i.gifer.com/5FBP.gif"  />
+<div align="center">
+  <img height="149" src="https://i.gifer.com/5FBP.gif"  />
+</div>
 
 ###
 
@@ -110,7 +110,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juan-garcia16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=juan-garcia16&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
@@ -122,7 +121,7 @@
 ###
 
 <div align="center">
-  <img height="294" src="https://64.media.tumblr.com/c45f2d3b46bef517ba0f192fabec6683/a1ffdcf631cfe43d-3d/s2048x3072/a85e674c6fa00649fc3806e91ef9022c1cd2e4da.gif"  />
+  <img height="266" src="https://64.media.tumblr.com/c45f2d3b46bef517ba0f192fabec6683/a1ffdcf631cfe43d-3d/s2048x3072/a85e674c6fa00649fc3806e91ef9022c1cd2e4da.gif"  />
 </div>
 
 ###
