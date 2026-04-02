@@ -14,7 +14,7 @@
 ###
 
 <div align="center">
-  <img src="https://count.getloli.com/@:maurodesouz?theme=miku&padding=7&offset=1&scale=0.2&align=top&pixelated=1&darkmode=1"  />
+  <img src="https://count.getloli.com/@:juan-garcia16?theme=miku&padding=7&offset=1&scale=0.2&align=top&pixelated=1&darkmode=1"  />
 </div>
 
 ###
@@ -57,7 +57,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="40" alt="css logo"  />
@@ -110,7 +110,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouz&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juan-garcia16&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=juan-garcia16&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
