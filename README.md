@@ -121,7 +121,7 @@
 ###
 
 <div align="center">
-  <img height="250" src="https://i.pinimg.com/originals/1f/86/2a/1f862a7913170e60912d0bb8542fffc2.gif"  />
+  <img height="240" src="https://i.pinimg.com/originals/1f/86/2a/1f862a7913170e60912d0bb8542fffc2.gif"  />
 </div>
 
 ###
