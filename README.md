@@ -51,6 +51,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="35" alt="nodejs logo"  />
   <img width="0" />
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=black&style=for-the-badge" height="35" alt="supabase logo"  />
+  <img src="https://img.shields.io/badge/n8n-%23FF6D5B.svg?style=for-the-badge&logo=n8n&logoColor=white" height="35" alt="supabase logo"  />
 </div>
 
 ###
